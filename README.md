@@ -175,3 +175,11 @@ Hệ thống tự động tạo bài blog và đăng lên website WordPress.
 <img width="1260" height="2800" alt="image" src="https://github.com/user-attachments/assets/2d05d9e9-876b-4857-b527-80d28968a10e" />
 
 <img width="1359" height="766" alt="image" src="https://github.com/user-attachments/assets/9b2d3e7d-3112-4c73-9169-76809bfc691d" />
+# 12. Kiểm tra bài viết trong WordPress Admin
+
+Sau khi đăng thành công, bài viết cũng xuất hiện trong mục:
+```
+Posts
+```
+của WordPress Admin.
+<img width="1366" height="612" alt="image" src="https://github.com/user-attachments/assets/995d9692-23b9-47f3-bc37-90c3b7762cad" />
